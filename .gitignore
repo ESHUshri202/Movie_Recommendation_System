@@ -1,0 +1,2 @@
+git rm --cached movies_list.pkl
+git rm --cached similarity.pkl
